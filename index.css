@@ -13,6 +13,7 @@ li {
 
 .girl {
     margin-top: 30px;
+    width: 100%;
 }
 
 .icon {
@@ -76,7 +77,7 @@ li {
 }
 
 .btn {
-    margin-top: 67px;   
+    margin-top: 67px;
     position: absolute;
     width: 160px;
     height: 58px;
@@ -91,4 +92,156 @@ li {
     font-weight: 700;
     font-size: 20px;
     line-height: 135.5%;
+}
+
+.sction1_text {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 139%;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #65653E;
+    margin-top: 100px;
+}
+
+.section1 {
+    margin-top: -10px;
+    background-color: #E1E1C2;
+    background-repeat: no-repeat;
+}
+
+.same {
+    display: flex;
+    align-items: center;
+}
+
+.same button {
+    background: #E5A985;
+    border-radius: 29px;
+    transform: rotate(-180deg);
+    border: none;
+    padding: 5px 10px;
+}
+
+
+.text2 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 139%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #333333;
+    margin-top: 50px;
+}
+
+.img-6 {
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text3 {
+    margin-bottom: 80px;
+    margin-top: 202px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 139%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #E5A985;
+}
+
+.card1 {
+    background: #FAE3D8;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    padding: 1px 1px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.card1 h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 138.5%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.card2 h2 {
+    margin-top: 10px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 138.5%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-top: -30px;
+    padding-bottom: 35px;
+}
+
+.img_card {
+    width: 100%;
+}
+
+.card2 {
+    margin-top: -51px;
+    border-radius: 20px;
+    background: #91916C;
+    box-shadow: 10px 10px 35px 2px rgba(89, 56, 14, 0.1);
+}
+
+.img_card2 {
+    width: 119%;
+    margin-left: -30px;
+    margin-top: -30px;
+
+}
+
+.section3 {
+    background: #FFEFE7;
+}
+
+.text4 {
+    padding-top: 210px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 139%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #795744;
+}
+
+.this {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+.this p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 171.5%;
+    letter-spacing: 0.02em;
+    color: #333333;
+    margin-bottom: 20px;
+}
+.this img{
+    margin-bottom: 20px;
 }
